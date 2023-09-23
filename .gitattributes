@@ -1,0 +1,2 @@
+C5_NeuralNetworks/Clase_NNA1.ipynb filter=lfs diff=lfs merge=lfs -text
+C5_NeuralNetworks/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
